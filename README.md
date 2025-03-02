@@ -9,7 +9,7 @@
 
 ## Checkpoint
 
-A pre-trained model checkpoint for ScBert can be downloaded from this link. https://drive.weixin.qq.com/s?k=AJEAIQdfAAoUxhXE7r
+A pre-trained model checkpoint for ScBert can be downloaded from this link. https://drive.weixin.qq.com/s?k=AJEAIQdfAAoUxhXE7r. Furthermore, if you would like to explore the model code of ScBert in more detail, you can access the official repository via the following link: https://github.com/TencentAILabHealthcare/scBERT. Additionally, the pre-trained weights for the Vision Transformer (ViT) model used in our framework can be directly downloaded from this link: https://dl.fbaipublicfiles.com/deit/deit_base_patch16_224-b5f2ef4d.pth.
 
 ## Installation
 
